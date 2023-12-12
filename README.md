@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on a Discord bot to explore APIs and make something I'll use often
+- 💬 Ask me about why I think you should ride bikes
+- 📫 How to reach me: add me on Discord @broski
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I've dislocated my shoulder 20 times (thats fun, right?)
 <!--
 **sfletcher15/sfletcher15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
