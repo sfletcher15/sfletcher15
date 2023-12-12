@@ -1,7 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a Discord bot to explore APIs and make something I'll use often
-- 💬 Ask me about why I think you should ride bikes
-- 📫 How to reach me: add me on Discord @broski
+- 🎓 I'm currently a student at Portland State University wrapping up my BS in Computer Science w/ a minor in Mathematics.
+- 🤓 I've interned at [Apex Fintech Solutions](https://apexfintechsolutions.com/) as a development intern.
+- 🔭 I’m currently working on a Discord bot to explore APIs and have something to whittle away at in my free time.
+- 💬 Ask me about why I think you should ride bikes.
+- 📫 How to reach me: email me at samfletch15@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've dislocated my shoulder 20 times (thats fun, right?)
 <!--
